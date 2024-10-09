@@ -98,3 +98,5 @@ statsFun_C
 *.starkfZ
 */queue.json
 CyKeplerSTM.c
+/.ipynb_checkpoints
+/.virtual_documents
